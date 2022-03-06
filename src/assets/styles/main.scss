@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+
+$main-font-family: 'Ubuntu', sans-serif;
+
+body {
+  font-family: $main-font-family;
+}
+
+.c-pointer {
+  cursor: pointer !important;
+}
